@@ -1,8 +1,5 @@
-## Thejoeun Academy Project
+## MVC Pattern, Java를 활용한 Web Project
 
-- MVC 패턴 , Java , MySQL 을 활용한 Web 프로젝트 입니다.
-
-- Project name: Roast Bean
-
+- Roast Bean: 마이페이지, 상품구매, 커피 커뮤니티, 고객센터 등의 기능이 포함된 Web입니다.
 
 copyrighted by sangwonKim7
